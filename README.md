@@ -34,7 +34,7 @@ ai-games/
 A grid-based logic game where an AI agent explores a cave, avoids pits, and hunts the Wumpus using percepts and reasoning.
 
 <p align="center">
-  <img src="ai-games/wumpus_path.gif" alt="Wumpus World AI Demo" width="500"/>
+  <img src="wumpus_path.gif" alt="Wumpus World AI Demo" width="500"/>
 </p>
 
 - **AI Features**: Knowledge-based agent, logical inference, safe pathfinding
@@ -45,7 +45,7 @@ A grid-based logic game where an AI agent explores a cave, avoids pits, and hunt
 The classic Snake game, enhanced with an AI agent that navigates the grid, collects food, and avoids collisions.
 
 <p align="center">
-  <img src="ai-games/snake_replay.gif" alt="Snake AI Demo" width="500"/>
+  <img src="snake_replay.gif" alt="Snake AI Demo" width="500"/>
 </p>
 
 - **AI Features**: Pathfinding (e.g., BFS/DFS/A*), survival strategies
